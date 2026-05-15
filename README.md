@@ -80,7 +80,3 @@ Full-featured social media backend in TypeScript with:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nada7344)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nada7344&color=58a6ff&style=flat-square&label=Profile+Views" />
-</p>
