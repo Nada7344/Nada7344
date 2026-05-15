@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 📨 [Saraha — Anonymous Messaging]([https://github.com/nadamahmoud](https://github.com/Nada7344/Saraha_App)
+### 📨 [Saraha — Anonymous Messaging](https://github.com/Nada7344/Saraha_App)
 > `Node.js` `Express.js` `MongoDB` `JWT` `Google OAuth2` `Nodemailer`
 
 Full-scale anonymous messaging backend built from scratch with:
@@ -53,7 +53,7 @@ Full-scale anonymous messaging backend built from scratch with:
 
 ---
 
-### 🌐 [Social Media Platform — REST API](https://github.com/nadamahmoud)
+### 🌐 [Social Media Platform — REST API](https://github.com/Nada7344/Social_Media_App)
 > `TypeScript` `Node.js` `Express.js` `MongoDB` `Redis` `Socket.IO` `GraphQL` `AWS S3`
 
 Full-featured social media backend in TypeScript with:
