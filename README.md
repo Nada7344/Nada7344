@@ -64,18 +64,6 @@ Full-featured social media backend in TypeScript with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nada7344&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nada7344&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nada7344&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 🎓 Education
 
